@@ -25,14 +25,14 @@
             "title": "조선민주주의인민공화국_무력_최고사령관",
             "explain": "달디 달고 달디 단 평양갱",
             "celeb": "김정은",
-            "color": "rgba(255, 100, 50, 1)"  // Changed to valid value
+            "color": "rgba(255, 100, 50, 1)"  
         },
         {
             "name": "이순재",
             "title": "이순재",
             "explain": "경찰이죠? 아 지금 탈옥범이 한서병원 옥상 위에 있어요 잡아가세요오오오!!!",
             "celeb": "이순재",
-            "color": "rgba(255, 100, 50, 1)"  // Changed to valid value
+            "color": "rgba(255, 100, 50, 1)" 
         }
     ]
 }
